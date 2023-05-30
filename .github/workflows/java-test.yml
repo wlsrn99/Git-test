@@ -1,7 +1,6 @@
 name: Java Maven Test
 
 on: push
-  -main
 
 jobs:
   builds:
