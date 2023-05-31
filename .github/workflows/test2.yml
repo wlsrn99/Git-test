@@ -1,8 +1,0 @@
-name: AboutMe Actions Demo
-run-name: ${{ github.actor }} is testing out AboutMe Actions
-on: [push]
-jobs:
-  Explore-GitHub-Actions:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "AboutMe"
